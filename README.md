@@ -17,7 +17,8 @@ End the program
 ![Screenshot 2024-04-04 105512](https://github.com/BOOPATHYS0660/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/155909381/b69ea424-feeb-4cd5-a7c5-5bfd302a7dae)
 
 ## Output:
-![Screenshot 2024-04-04 103520](https://github.com/BOOPATHYS0660/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/155909381/a91d40d6-5241-40f1-a286-0d7971af12b6)
+![Screenshot 2024-04-04 105702](https://github.com/BOOPATHYS0660/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/155909381/efab0f25-25c2-431f-b02e-29a22bfce88d)
+
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
